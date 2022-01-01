@@ -4,4 +4,4 @@ Pitch perfect is an app made for iPhone that can record and play back audio with
 
 ## Navigation Walkthrough
 
-<img src='' title='Navigation' width=''  />
+<img src='https://github.com/dcond007/PitchPerfect/blob/main/Navigation%20View.png' title='Navigation' width=''  />
