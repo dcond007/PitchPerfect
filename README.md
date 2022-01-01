@@ -1,6 +1,6 @@
 # Pitch Perfect
 
-Pitch perfect is an app made for iPhone that can record and play back audio with special effects. 
+Pitch perfect is an app made for iPhone that can record and play back audio with special effects using an easy to use and simple interface. 
 
 ## Navigation Walkthrough
 
